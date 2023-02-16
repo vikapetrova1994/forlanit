@@ -1,0 +1,23 @@
+<httpSample t="408" it="0" lt="408" ct="0" ts="1662008561667" s="false" lb="&gt;_/api/usercat/front/product/listing" rc="200" rm="OK" tn="FFAag-ThreadStarter 2-1" dt="text" by="777" sby="963" ng="1" na="2" hn="TEMP-01">
+<responseHeader class="java.lang.String">HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 01 Sep 2022 05:02:42 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Cache-Control: no-cache
+X-Content-Type-Options: nosniff
+Cache-Control: max-age
+Strict-Transport-Security: max-age=15768000
+</responseHeader>
+  <requestHeader class="java.lang.String">
+Connection: keep-alive
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Accept-Language: ru-RU,ru;q=0.9
+Accept: application/json, text/plain, */*
+Content-Length: 180
+</requestHeader>
+  <method class="java.lang.String">POST</method>
+</httpSample>
